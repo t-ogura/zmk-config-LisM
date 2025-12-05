@@ -31,7 +31,7 @@ layers:
   - ','
   - .
   - /
-  - {t: DEL, h: Device Layer}
+  - LCTRL
   - {t: Mouse Layer, h: toggle}
   - {t: TAB, h: Mouse Layer}
   - Sft+Gui+4
@@ -203,7 +203,7 @@ layers:
   - ''
   - ''
   - Reset
-  - {t: Boot, type: held}
+  - Boot
   - BT CLR ALL
   - ''
   - ''
@@ -214,4 +214,4 @@ layers:
   - ''
   - ''
   - ''
-  - Boot
+  - {t: Boot, type: held}
