@@ -13,12 +13,12 @@ layers:
   - P
   - A
   - S
-  - {t: D, h: Mark Layer}
+  - {t: D, h: Scroll Layer}
   - F
   - G
   - H
   - J
-  - {t: K, h: Mark Layer}
+  - {t: K, h: Scroll Layer}
   - L
   - '-'
   - {t: Z, h: LEFT SHIFT}
@@ -36,7 +36,7 @@ layers:
   - LEFT ALT
   - ''
   - {t: SPACE, h: Function Layer}
-  - {t: '`', h: Mark Layer}
+  - {t: '`', h: Scroll Layer}
   - BS
   - {t: ENTER, h: Number Layer}
   - ''
@@ -129,7 +129,7 @@ layers:
   - Sft+Ctl+TAB
   - Ctl+TAB
   - F12
-  Mark Layer:
+  Scroll Layer:
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
@@ -208,7 +208,7 @@ layers:
   - ''
   - ''
   - {t: SPACE, h: Function Layer}
-  - {t: '`', h: Mark Layer}
+  - {t: '`', h: Scroll Layer}
   - BS
   - {t: ENTER, h: Number Layer}
   - ''
@@ -223,9 +223,9 @@ combos:
   k: Sft+TAB
 - p: [0, 4]
   k: BT CLR
-  l: [Mark Layer]
+  l: [Scroll Layer]
 - p: [1, 2, 3]
   k: Boot
-  l: [Mark Layer]
+  l: [Scroll Layer]
 - p: [18, 17]
   k: DQT
