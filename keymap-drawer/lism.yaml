@@ -117,9 +117,9 @@ layers:
   - ↓
   - →
   - /
-  - {t: ▽, type: trans}
-  - .
+  - ESCAPE
   - '0'
+  - PERIOD
   - {t: ▽, type: trans}
   - LANG2
   - DEL
