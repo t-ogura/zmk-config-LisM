@@ -115,7 +115,7 @@
         };
 
         Scroll {
-            display-name = "Mark Layer";
+            display-name = "Scroll Layer";
             bindings = <
 &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp LC(LG(LEFT))  &kp LG(TAB)  &mkp MB3  &trans     &kp LG(LC(RIGHT))
 &trans        &trans        &trans        &trans        &trans                          &mkp MB4          &mkp MB1     &kp UP    &mkp MB2   &mkp MB5
