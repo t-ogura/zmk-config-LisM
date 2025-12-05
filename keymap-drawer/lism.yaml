@@ -54,22 +54,22 @@ layers:
   - F8
   - F9
   - F10
-  - A
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - Gui+↑
+  - ''''
+  - '!'
+  - /
+  - '*'
+  - ']'
+  - Sft+0x87
   - '&mkp MB1'
   - ↑
   - '&mkp MB2'
-  - '&msc SCRL_DOWN'
-  - '&mkp MB4'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - Gui+↓
+  - ;
+  - ;
+  - QUESTION
+  - '0x89'
+  - (
+  - \
+  - '['
   - ←
   - ↓
   - →
@@ -92,31 +92,31 @@ layers:
   - '8'
   - '9'
   - '-'
-  - F1
-  - F2
+  - ']'
+  - {t: ▽, type: trans}
   - '&mkp MB3'
-  - F10
-  - RSHIFT
-  - '*'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '"'
   - '4'
   - '5'
   - '6'
-  - LCTRL
-  - '&mkp MB4'
+  - ':'
+  - RPAR
   - '&mkp MB1'
   - ↑
   - '&mkp MB2'
-  - '&mkp MB5'
+  - ':'
   - {t: /, h: LEFT SHIFT}
   - '1'
   - '2'
   - '3'
   - '='
-  - '&mkp MB2'
+  - '}'
   - ←
   - ↓
   - →
-  - RALT
+  - /
   - {t: ▽, type: trans}
   - .
   - '0'
