@@ -234,4 +234,4 @@ combos:
   l: [Default Layer]
 - p: [30, 41]
   k: {t: Default Layer, h: toggle}
-  l: [Function Layer]
+  l: [Default Layer]
