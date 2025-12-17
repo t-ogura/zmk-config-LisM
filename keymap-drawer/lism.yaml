@@ -13,12 +13,12 @@ layers:
   - P
   - A
   - S
-  - {t: D, h: Scroll Layer}
+  - {t: D, h: Mouse Layer}
   - F
   - G
   - H
   - J
-  - {t: K, h: Scroll Layer}
+  - {t: K, h: Mouse Layer}
   - L
   - '-'
   - {t: Z, h: LEFT SHIFT}
@@ -35,10 +35,10 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - ''
-  - {t: SPACE, h: Function Layer}
-  - {t: LANG ZENKAKUHANKAKU, h: Scroll Layer}
+  - {t: SPACE, h: Number Layer}
+  - {t: LANG ZENKAKUHANKAKU, h: Mouse Layer}
   - BS
-  - {t: ENTER, h: Number Layer}
+  - {t: ENTER, h: Scroll Layer}
   - ''
   - F7
   - F10
@@ -121,7 +121,7 @@ layers:
   - '0'
   - PERIOD
   - {t: ▽, type: trans}
-  - LANG2
+  - {t: LANG2, type: held}
   - DEL
   - {t: ▽, type: trans}
   - {t: LANG1, type: held}
@@ -167,7 +167,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -185,7 +185,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -230,8 +230,8 @@ combos:
 - p: [18, 17]
   k: DQT
 - p: [30, 41]
-  k: {t: Default Layer, h: toggle}
+  k: {t: Function Layer, h: toggle}
   l: [Default Layer]
 - p: [30, 41]
   k: {t: Default Layer, h: toggle}
-  l: [Default Layer]
+  l: [Function Layer]
