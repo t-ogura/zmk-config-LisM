@@ -103,7 +103,7 @@
         };
 
         to_ios {
-            bindings = <&to 5>;
+            bindings = <&to 4>;
             key-positions = <30 41>;
             layers = <0>;
         };
