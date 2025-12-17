@@ -162,15 +162,6 @@
             >;
         };
 
-        Mouse {
-            display-name = "Mouse Layer";
-            bindings = <
-&trans  &trans  &trans  &trans  &trans                    &trans  &trans    &mkp MB3  &trans    &trans
-&trans  &trans  &trans  &trans  &trans                    &trans  &mkp MB1  &trans    &mkp MB2  &trans
-&trans  &trans  &trans  &trans  &trans                    &trans  &trans    &trans    &trans    &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans    &trans    &trans
-            >;
-        };
 
         iOS_default_layer {
             display-name = "Default Layer";
@@ -213,6 +204,16 @@
 &trans        &trans        &trans        &trans        &trans                          &mkp MB4          &mkp MB1     &kp UP    &mkp MB2   &mkp MB5
 &trans        &trans        &trans        &trans        &trans                          &trans            &kp LEFT     &kp DOWN  &kp RIGHT  &trans
 &trans        &trans        &trans        &trans        &trans        &trans    &trans  &trans            &trans       &trans    &trans     &trans
+            >;
+        };
+
+        Mouse {
+            display-name = "Mouse Layer";
+            bindings = <
+&trans  &trans  &trans  &trans  &trans                    &trans  &trans    &mkp MB3  &trans    &trans
+&trans  &trans  &trans  &trans  &trans                    &trans  &mkp MB1  &trans    &mkp MB2  &trans
+&trans  &trans  &trans  &trans  &trans                    &trans  &trans    &trans    &trans    &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans    &trans    &trans
             >;
         };
     };
