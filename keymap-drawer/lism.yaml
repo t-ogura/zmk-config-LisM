@@ -230,7 +230,7 @@ combos:
 - p: [18, 17]
   k: DQT
 - p: [30, 41]
-  k: {t: Function Layer, h: toggle}
+  k: {t: Default Layer, h: toggle}
   l: [Default Layer]
 - p: [30, 41]
   k: {t: Default Layer, h: toggle}

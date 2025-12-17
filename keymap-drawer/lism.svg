@@ -340,9 +340,9 @@ path.combo { stroke: #7f7f7f; }
 <path d="M364,196 l-317,0" class="combo"/>
 <path d="M364,196 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
-<a href="#Function-Layer">
+<a href="#Default-Layer">
 <text x="364" y="196" class="combo tap layer-activator">
-<tspan x="364" dy="-0.6em" style="font-size: 88%">Function</tspan><tspan x="364" dy="1.2em" style="font-size: 88%">Layer</tspan>
+<tspan x="364" dy="-0.6em">Default</tspan><tspan x="364" dy="1.2em">Layer</tspan>
 </text>
 </a><text x="364" y="207" class="combo hold">toggle</text>
 </g>
