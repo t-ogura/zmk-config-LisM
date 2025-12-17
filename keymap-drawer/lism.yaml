@@ -36,7 +36,7 @@ layers:
   - LEFT ALT
   - ''
   - {t: SPACE, h: Function Layer}
-  - {t: '`', h: Scroll Layer}
+  - {t: LANG ZENKAKUHANKAKU, h: Scroll Layer}
   - BS
   - {t: ENTER, h: Number Layer}
   - ''
@@ -54,22 +54,22 @@ layers:
   - F8
   - F9
   - F10
-  - ''''
+  - ':'
   - '!'
   - /
-  - '*'
-  - ']'
-  - Sft+0x87
+  - (
+  - '['
+  - UNDERSCORE
   - '&mkp MB1'
   - ↑
   - '&mkp MB2'
   - ;
   - ;
   - QUESTION
-  - '0x89'
-  - (
   - \
-  - '['
+  - )
+  - ']'
+  - '@'
   - ←
   - ↓
   - →
@@ -97,11 +97,11 @@ layers:
   - '&mkp MB3'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '"'
+  - '*'
   - '4'
   - '5'
   - '6'
-  - ':'
+  - +
   - RPAR
   - '&mkp MB1'
   - ↑
@@ -206,12 +206,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - ''
-  - {t: SPACE, h: Function Layer}
-  - {t: '`', h: Scroll Layer}
-  - BS
-  - {t: ENTER, h: Number Layer}
-  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -229,3 +229,9 @@ combos:
   l: [Scroll Layer]
 - p: [18, 17]
   k: DQT
+- p: [30, 41]
+  k: {t: Default Layer, h: toggle}
+  l: [Default Layer]
+- p: [30, 41]
+  k: {t: Default Layer, h: toggle}
+  l: [Default Layer]
