@@ -35,10 +35,10 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - ''
-  - {t: SPACE, h: Number Layer}
-  - {t: LANG ZENKAKUHANKAKU, h: Mouse Layer}
+  - {t: SPACE, h: Function Layer}
+  - {t: INTERNATIONAL 4, h: Scroll Layer}
   - BS
-  - {t: ENTER, h: Scroll Layer}
+  - {t: ENTER, h: Number Layer}
   - ''
   - F7
   - F10
@@ -121,7 +121,7 @@ layers:
   - '0'
   - PERIOD
   - {t: ▽, type: trans}
-  - {t: LANG2, type: held}
+  - LANG2
   - DEL
   - {t: ▽, type: trans}
   - {t: LANG1, type: held}
@@ -165,9 +165,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
