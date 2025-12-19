@@ -36,7 +36,7 @@ layers:
   - LEFT ALT
   - ''
   - {t: SPACE, h: Function Layer}
-  - {t: CAPS, h: Scroll Layer}
+  - {t: Ctl+SPACE, h: Scroll Layer}
   - BS
   - {t: ENTER, h: Number Layer}
   - ''
