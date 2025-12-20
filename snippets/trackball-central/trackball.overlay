@@ -24,7 +24,7 @@
 };
 
 &mkp_input_listener {
-    input-processors = <&zip_temp_layer 4 250>;
+    input-processors = <&zip_temp_layer 8 250>;
 };
 
 // ペリフェラル（split経由）のリスナーを有効化
