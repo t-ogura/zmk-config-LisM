@@ -235,3 +235,5 @@ combos:
 - p: [30, 41]
   k: {t: Default Layer, h: toggle}
   l: [Default Layer]
+- p: [7, 16, 18, 30, 20, 41]
+  k: ''

@@ -356,6 +356,15 @@ path.combo { stroke: #7f7f7f; }
 </text>
 </a><text x="364" y="207" class="combo hold">toggle</text>
 </g>
+<g class="combo combopos-5">
+<path d="M420,121 l152,-84" class="combo"/>
+<path d="M420,121 l94,-31" class="combo"/>
+<path d="M420,121 l206,-34" class="combo"/>
+<path d="M420,121 l-374,71" class="combo"/>
+<path d="M420,121 l-373,18" class="combo"/>
+<path d="M420,121 l262,70" class="combo"/>
+<rect rx="6" ry="6" x="406" y="108" width="28" height="26" class="combo"/>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-Function Layer">
@@ -539,6 +548,15 @@ path.combo { stroke: #7f7f7f; }
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="602" y="71" width="28" height="26" class="combo"/>
 <text x="616" y="84" class="combo tap">DQT</text>
+</g>
+<g class="combo combopos-2">
+<path d="M420,121 l152,-84" class="combo"/>
+<path d="M420,121 l94,-31" class="combo"/>
+<path d="M420,121 l206,-34" class="combo"/>
+<path d="M420,121 l-374,71" class="combo"/>
+<path d="M420,121 l-373,18" class="combo"/>
+<path d="M420,121 l262,70" class="combo"/>
+<rect rx="6" ry="6" x="406" y="108" width="28" height="26" class="combo"/>
 </g>
 </g>
 </g>
@@ -729,6 +747,15 @@ path.combo { stroke: #7f7f7f; }
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="602" y="71" width="28" height="26" class="combo"/>
 <text x="616" y="84" class="combo tap">DQT</text>
+</g>
+<g class="combo combopos-2">
+<path d="M420,121 l152,-84" class="combo"/>
+<path d="M420,121 l94,-31" class="combo"/>
+<path d="M420,121 l206,-34" class="combo"/>
+<path d="M420,121 l-374,71" class="combo"/>
+<path d="M420,121 l-373,18" class="combo"/>
+<path d="M420,121 l262,70" class="combo"/>
+<rect rx="6" ry="6" x="406" y="108" width="28" height="26" class="combo"/>
 </g>
 </g>
 </g>
@@ -942,6 +969,15 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="602" y="71" width="28" height="26" class="combo"/>
 <text x="616" y="84" class="combo tap">DQT</text>
 </g>
+<g class="combo combopos-4">
+<path d="M420,121 l152,-84" class="combo"/>
+<path d="M420,121 l94,-31" class="combo"/>
+<path d="M420,121 l206,-34" class="combo"/>
+<path d="M420,121 l-374,71" class="combo"/>
+<path d="M420,121 l-373,18" class="combo"/>
+<path d="M420,121 l262,70" class="combo"/>
+<rect rx="6" ry="6" x="406" y="108" width="28" height="26" class="combo"/>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1120)" class="layer-Mouse Layer">
@@ -1127,6 +1163,15 @@ path.combo { stroke: #7f7f7f; }
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="602" y="71" width="28" height="26" class="combo"/>
 <text x="616" y="84" class="combo tap">DQT</text>
+</g>
+<g class="combo combopos-2">
+<path d="M420,121 l152,-84" class="combo"/>
+<path d="M420,121 l94,-31" class="combo"/>
+<path d="M420,121 l206,-34" class="combo"/>
+<path d="M420,121 l-374,71" class="combo"/>
+<path d="M420,121 l-373,18" class="combo"/>
+<path d="M420,121 l262,70" class="combo"/>
+<rect rx="6" ry="6" x="406" y="108" width="28" height="26" class="combo"/>
 </g>
 </g>
 </g>
