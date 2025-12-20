@@ -113,6 +113,11 @@
             key-positions = <30 41>;
             layers = <4>;
         };
+
+        ex {
+            bindings = <&none>;
+            key-positions = <7 16 18 30 20 41>;
+        };
     };
 
     keymap {
